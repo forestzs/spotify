@@ -1,0 +1,21 @@
+# Mac / system junk
+__MACOSX/
+.DS_Store
+*.DS_Store
+._*
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Gradle / build
+.gradle/
+build/
+*/build/
+
+# Node / others (预防以后用)
+node_modules/
+
+# Secrets
+.env
